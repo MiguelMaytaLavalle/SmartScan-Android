@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ScannieBoi_Android</string>
+    <string name="scan">Scan</string>
+    <string name="content">Content :</string>
+    <string name="format">Format :</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Logga in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Trial">Try first</string>
+    <string name="signup">Skapa konto</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Hem</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="menu_cart">Varukorg</string>
+    <string name="menu_shoplist">Inköpslista</string>
+    <string name="text_view_home_header">ScanSmart</string>
+    <string name="card_cart_product_name">name</string>
+    <string name="card_cart_product_price">price</string>
+    <string name="card_cart_product_country">country</string>
+    <string name="listname">ListName</string>
+    <string name="listdate">date</string>
+    <string name="productname">Productname</string>
+    <string name="string_paragraph_1">ScanSmart hjälper med att bli mer medveten om hur du kan ta ansvar när du handlar innan varorna hamnar på tallriken.</string>
+    <string name="string_paragraph_2">Tillsammans kan vi jobba för att gynna Svenskt näringsliv och värna om vår planet. Ett steg i taget &#129309;</string>
+    <string name="create_list">Skapa ny lista</string>
+    <string name="string_login">Logga in</string>
+    <string name="items">varor</string>
+    <string name="item">Item</string>
+</resources>
